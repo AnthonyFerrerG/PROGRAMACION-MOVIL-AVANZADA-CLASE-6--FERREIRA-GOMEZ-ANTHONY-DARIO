@@ -1,0 +1,7 @@
+<resources>
+    <style name="MiTitulo">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/mi_azul</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+</resources>
