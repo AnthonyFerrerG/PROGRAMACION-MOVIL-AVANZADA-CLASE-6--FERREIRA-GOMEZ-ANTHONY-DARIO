@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="hint_nombre">Enter your name</string>
+    <string name="hint_edad">Enter your age</string>
+    <string name="btn_enviar">Send</string>
+    <string name="saludo_personalizado">Hello %1$s, you are %2$d years old.</string>
+</resources>
